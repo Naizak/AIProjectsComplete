@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d728c01b-8990-4113-9532-419d4e3eb08d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Notakto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Notakto/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Notakto" />
+  </component>
+  <component name="ProjectId" id="1jbVXH9xYaC2ttQ8vlY0utRDKpr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MachineLearningAlgorithms" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RunManager" selected="Python.LinearRegression">
+    <configuration name="LinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningAlgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MachineLearningAlgorithms/RegressionAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MachineLearningAlgorithms/RegressionAlgorithms/LinearRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ludisposed_Tetris" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TetrisBlockGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ludisposed_Tetris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mac-MiniMax(NoTakTo)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Notakto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Notakto/Imperative paradigm (Original Design)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Notakto/Imperative paradigm (Original Design)/Mac-MiniMax(NoTakTo).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MiniMax(TicTacToe)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Notakto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Notakto/Imperative paradigm (Original Design)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Notakto/Imperative paradigm (Original Design)/MiniMax(TicTacToe).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TBG_Human" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TetrisBlockGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TBG_Human.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LinearRegression" />
+        <item itemvalue="Python.MiniMax(TicTacToe)" />
+        <item itemvalue="Python.Mac-MiniMax(NoTakTo)" />
+        <item itemvalue="Python.TBG_Human" />
+        <item itemvalue="Python.Ludisposed_Tetris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d728c01b-8990-4113-9532-419d4e3eb08d" name="Default Changelist" comment="" />
+      <created>1604072815284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604072815284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1580" y="-791" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604074524739">
+      <screen x="976" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="1580" y="-791" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.2130/976.-1080.1920.1050@976.-1080.1920.1050" timestamp="1604074524739" />
+    <state x="5440" y="703" key="FileChooserDialogImpl" timestamp="1604115351560">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state x="5440" y="703" key="FileChooserDialogImpl/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115351560" />
+    <state x="1600" y="703" key="FileChooserDialogImpl/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604105373411" />
+    <state width="3807" height="98" key="GridCell.Tab.0.bottom" timestamp="1604115647821">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state width="3807" height="98" key="GridCell.Tab.0.bottom/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115647821" />
+    <state width="3841" height="2047" key="GridCell.Tab.0.bottom/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604093191033" />
+    <state width="1887" height="98" key="GridCell.Tab.0.bottom/0.0.3840.2130/976.-1080.1920.1050@976.-1080.1920.1050" timestamp="1604105683907" />
+    <state width="3807" height="98" key="GridCell.Tab.0.center" timestamp="1604115647821">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state width="3807" height="98" key="GridCell.Tab.0.center/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115647821" />
+    <state width="3841" height="2047" key="GridCell.Tab.0.center/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604093191031" />
+    <state width="1887" height="98" key="GridCell.Tab.0.center/0.0.3840.2130/976.-1080.1920.1050@976.-1080.1920.1050" timestamp="1604105683907" />
+    <state width="3807" height="98" key="GridCell.Tab.0.left" timestamp="1604115647821">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state width="3807" height="98" key="GridCell.Tab.0.left/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115647821" />
+    <state width="3841" height="2047" key="GridCell.Tab.0.left/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604093191029" />
+    <state width="1887" height="98" key="GridCell.Tab.0.left/0.0.3840.2130/976.-1080.1920.1050@976.-1080.1920.1050" timestamp="1604105683907" />
+    <state width="3807" height="98" key="GridCell.Tab.0.right" timestamp="1604115647821">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state width="3807" height="98" key="GridCell.Tab.0.right/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115647821" />
+    <state width="3841" height="2047" key="GridCell.Tab.0.right/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604093191032" />
+    <state width="1887" height="98" key="GridCell.Tab.0.right/0.0.3840.2130/976.-1080.1920.1050@976.-1080.1920.1050" timestamp="1604105683907" />
+    <state width="3841" height="2047" key="GridCell.Tab.1.bottom" timestamp="1604115647818">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state width="3841" height="2047" key="GridCell.Tab.1.bottom/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115647818" />
+    <state width="3841" height="2047" key="GridCell.Tab.1.bottom/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604093191034" />
+    <state width="3841" height="2047" key="GridCell.Tab.1.center" timestamp="1604115647818">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state width="3841" height="2047" key="GridCell.Tab.1.center/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115647818" />
+    <state width="3841" height="2047" key="GridCell.Tab.1.center/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604093191033" />
+    <state width="3841" height="2047" key="GridCell.Tab.1.left" timestamp="1604115647818">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state width="3841" height="2047" key="GridCell.Tab.1.left/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115647818" />
+    <state width="3841" height="2047" key="GridCell.Tab.1.left/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604093191033" />
+    <state width="3841" height="2047" key="GridCell.Tab.1.right" timestamp="1604115647818">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state width="3841" height="2047" key="GridCell.Tab.1.right/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115647818" />
+    <state width="3841" height="2047" key="GridCell.Tab.1.right/0.0.3840.2130/976.-1080.1920.1050@0.0.3840.2130" timestamp="1604093191033" />
+    <state x="5021" y="534" key="SettingsEditor" timestamp="1604115627018">
+      <screen x="3840" y="0" width="3840" height="2130" />
+    </state>
+    <state x="5021" y="534" key="SettingsEditor/0.0.3840.2130/3840.0.3840.2130@3840.0.3840.2130" timestamp="1604115627018" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ludisposed_Tetris.py</url>
+          <line>388</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
